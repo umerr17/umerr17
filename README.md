@@ -59,8 +59,8 @@
 ### 🎧 Currently Vibing To
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31e44ifw4p5bw5fuiymq2piulnfu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31e44ifw4p5bw5fuiymq2piulnfu&count=2&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/bsuamlo2t7js7quxwhqudkxrg">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bsuamlo2t7js7quxwhqudkxrg&count=2&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
