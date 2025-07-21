@@ -1,67 +1,71 @@
+<h2 align="left">✨ Hey there, I’m Muhammad Umer! 👋</h2>
+
+<img align="right" height="200" src="./gifs/gif2.gif" />
+
+<h5 align="left">
+🚀 Passionate about Open Source, Linux, Coding, Configuring and Theming!<br>
+💻 Computer Systems Engineer | Exploring Full-Stack Dev & Cybersecurity<br>
+🎨 Customizing UI & UX | Arch Linux Enthusiast BTW<br>
+🎶 Vibing to Music<br><br>
+🌟 Always learning, always building! 🚀
+</h5>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Umer+%F0%9F%91%8B;A+Full-Stack+Web+Developer;Tech+Lover+%F0%9F%92%BB;Welcome+to+my+GitHub!" alt="Typing SVG" />
+### 🛠️ My Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="NextJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="NodeJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="35" alt="Vim"/>
 </div>
 
 ---
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="./gifs/gh01-ezgif.com-video-to-gif-converter.gif" width="350px" height="auto" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadumer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=muhammadumer&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumer&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ---
 
-<h2 align="center">🚀 Tech Stack & Tools</h2>
+### 🐍 Contributions Snake
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,mysql,tailwind,bootstrap,git,github,vscode,linux,figma,docker" />
+  <img src="https://raw.githubusercontent.com/muhammadumer/muhammadumer/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umerr17&show_icons=true&theme=radical" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=umerr17&theme=radical&hide_border=false" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerr17&layout=compact&theme=radical" height="170px"/>
-</div>
-
----
-
-<h2 align="center">🐍 Snake Eating My Contributions</h2>
+### 🎧 Currently Vibing On Spotify
 
 <p align="center">
-
-  ![snake gif](https://github.com/umerr17/umerr17/blob/output/github-snake-dark.svg)
-
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=2&unique=true" alt="Spotify recently played" />
+  </a>
 </p>
 
 ---
 
-<h2 align="center">💡 Dev Thought of the Day</h2>
-<p align="center">
-  <img src="https://readme-thoughts.vercel.app/api?username=umerr17" alt="dev thought"/>
-</p>
-
----
-
-<h2 align="center">📫 Contact Me</h2>
-<p align="center">
-  <a href="mailto:umerr17@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/umerr17"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/umerr17"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
----
-
-<h2 align="center">✨ Fun Fact</h2>
-<p align="center">
-  I build tech as if it’s art 🎨 and solve bugs like puzzles 🧩.
-</p>
-
----
+### 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a>
+  <a href="https://github.com/muhammadumer"><img src="https://skillicons.dev/icons?i=github" height="35" /></a>
 </p>
