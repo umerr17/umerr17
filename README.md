@@ -1,39 +1,111 @@
+<div align="center">
+
+<h1 align="center">🚀 Umer Raza — Full Stack Developer & Digital Craftsman</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F58A&center=true&vCenter=true&width=800&height=45&lines=Bringing+Ideas+to+Life+with+Code+%F0%9F%92%BB;MERN+Stack+Wizard+%F0%9F%AA%84;Open+Source+Contributor+%F0%9F%92%96;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%93%84" alt="Typing SVG" />
+
+<img src="https://github.com/umerr17/umerr17/blob/output/github-contribution-grid-snake.svg" width="100%" />
+
+</div>
+
 ![snake gif](https://github.com/umerr17/umerr17/blob/output/github-snake-dark.svg)
 
-<h1 align="center">Hi 👋🏻, I'm Muhammad Umer Rukhsar</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umerr17&label=Profile%20views&color=0e75b6&style=flat" alt="umerr17" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umerr17" alt="umerr17" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/umer17_" target="blank"><img src="https://img.shields.io/twitter/follow/umer17_?logo=twitter&style=for-the-badge" alt="umer17_" /></a> </p>
-
-- 🔭 I’m currently working on [SoleStyle](sole-style-theta.vercel.app)
-
-- 🌱 I’m currently learning **n8n**
-
-- 👨‍💻 All of my projects are available at [mu-umer-ru.vercel.app](mu-umer-ru.vercel.app)
-
-- 💬 Ask me about **javascript,react**
-
-- 📫 How to reach me **umerrukhsar65@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/umer17_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umer17_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/umer17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umer17" height="30" width="40" /></a>
-<a href="https://kaggle.com/muhammadumerrukhsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammadumerrukhsar" height="30" width="40" /></a>
-<a href="https://instagram.com/umer17_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umer17_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/umer17_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umer17_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umerr17&theme=radical&margin-w=15&margin-h=15&row=2&column=3" alt="Trophies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umerr17&show_icons=true&locale=en&layout=compact" alt="umerr17" /></p>
+## 🌟 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umerr17&show_icons=true&locale=en" alt="umerr17" /></p>
+```yaml
+Name: Muhammad Umer Raza
+Role: Full Stack Developer
+Current Focus: MERN Stack, Next.js, TypeScript, Blender
+Fun Fact: I can turn coffee into scalable apps ☕
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umerr17&" alt="umerr17" /></p>
+---
 
+## 🔥 Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,bootstrap,figma,blender,threejs,cpp,linux,git,github,vscode,docker" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+```txt
+🧠 TypeScript, NextAuth.js, Microservices, Docker, PostgreSQL, AI Tools, Blender 3D
+```
+
+---
+
+## 🧑‍💻 My Dev Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umerr17&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My+GitHub+Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umerr17&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerr17&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧭 My Dev Philosophy
+
+> "Code like poetry should flow. Each keystroke is a brushstroke."
+
+---
+
+## 🪄 Magic I'm Building
+
+- 🚧 `Clay Creations` — A full-fledged e-commerce platform (MERN Stack)
+- 🎨 `Archer` — Offline AI Voice Assistant for Arch Linux
+- 🎮 `React Snake` — Gamified Git Contributions
+- 🛠 `Blender 3D Scenes` — Dev-powered creative renders
+
+---
+
+## 📚 My Daily Dev Thought
+
+> “Every bug is an opportunity to learn something new.”
+
+🔁 *(Refreshed daily using GitHub Actions & Quote APIs)*
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/umerr17"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/umerr17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:umerrrazza@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🧠 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=umerr17&theme=rogue" alt="Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/umerr17/umerr17/main/assets/retro-welcome.gif" width="600" alt="Retro Welcome" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/umerr17/umerr17/blob/output/github-contribution-grid-snake.svg" width="800" />
+</p>
+
+<div align="center">
+  <h3>Thanks for stopping by 💻🌍 — Let's build the future together!</h3>
+</div>
