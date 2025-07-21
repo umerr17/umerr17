@@ -44,7 +44,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umerr17&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=umerr17&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerr17&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umerr17&theme=tokyonight" height="150" alt="Coding Activity" />
 </div>
@@ -60,8 +59,8 @@
 ### 🎧 Currently Vibing To
 
 <div align="center">
-  <a href="https://open.spotify.com/user/bsuamlo2t7js7quxwhqudkxrg" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bsuamlo2t7js7quxwhqudkxrg&count=2&unique=true" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/user/31e44ifw4p5bw5fuiymq2piulnfu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31e44ifw4p5bw5fuiymq2piulnfu&count=2&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
