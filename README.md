@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img src="gifs/gh01.mp4" width="350px" height="auto" />
+  <img src="./gifs/gh01.mp4" width="350px" height="auto" />
 </div>
 
 ---
@@ -30,8 +30,11 @@
 ---
 
 <h2 align="center">🐍 Snake Eating My Contributions</h2>
+
 <p align="center">
-![snake gif](https://github.com/umerr17/umerr17/blob/output/github-snake-dark.svg)
+
+  ![snake gif](https://github.com/umerr17/umerr17/blob/output/github-snake-dark.svg)
+
 </p>
 
 ---
