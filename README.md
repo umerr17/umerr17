@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img src="./gifs/gh01.gif" width="350px" height="auto" />
+  <img src="./gifs/gh01-ezgif.com-video-to-gif-converter.gif" width="350px" height="auto" />
 </div>
 
 ---
