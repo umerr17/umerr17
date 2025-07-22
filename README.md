@@ -61,7 +61,7 @@
 <div align="center">
   <a href="https://open.spotify.com/user/bsuamlo2t7js7quxwhqudkxrg">
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bsuamlo2t7js7quxwhqudkxrg)
+![Error fetching...](https://spotify-recently-played-readme.vercel.app/api?user=bsuamlo2t7js7quxwhqudkxrg&count=2)
 
   </a>
 </div>
