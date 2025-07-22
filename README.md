@@ -1,6 +1,8 @@
 <h2 align="left">✨ Hey there, I’m Muhammad Umer! 👋</h2>
 
-<img align="right" height="200" src="./gifs/gif2.gif" />
+<img style="margin-top:13px" align="right" height="150" width="130" src="./gifs/gif2.gif" />
+
+<div style="width:450px">
 
 <h4 align="left">🚀 Passionate about Open Source, Linux, Coding, Configuring and Theming!<br>
 💻 Computer Systems Engineering Student | Full-Stack Dev | Arch Linux BTW <br>
@@ -9,6 +11,8 @@
 🌟 Always building, always learning, always evolving 🚀</h4>
 
 ---
+
+</div>
 
 ### 🛠️ Tech Stack
 
