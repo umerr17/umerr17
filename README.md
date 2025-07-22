@@ -4,9 +4,9 @@
 
 <div style="width:450px">
 
-<h4 align="left">🚀 Passionate about Open Source, Linux, Coding, Configuring and Theming!<br>
+<h4 align="left">🚀 Passionate about Coding, Linux, AI, and Cybersecurity!<br>
 💻 Computer Systems Engineering Student | Full-Stack Dev | Arch Linux BTW <br>
-🎨 Building Beautiful UX/UI & Living Terminal Life <br>
+🌐 Building Scalable Web Apps & Living the Terminal Life <br>
 🎶 Vibing to Code & Music nonstop<br><br>
 🌟 Always building, always learning, always evolving 🚀</h4>
 
