@@ -76,6 +76,9 @@
 ### 🔗 Let's Connect
 
 <p align="center">
+ <a href="https://muhammadumer.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-muhammadumer.dev-0A192F?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/umer17" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/umer17_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
